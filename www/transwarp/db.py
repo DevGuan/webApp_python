@@ -161,7 +161,7 @@ _db_ctx = _DbCtx()
 
 
 class _ConnectionCtx(object):
-    """docstring for _ConectionCtx"""
+    """docstring for _ConnectionCtx"""
     def __enter__(self):
         
         global _db_ctx
@@ -189,7 +189,7 @@ def connection():
     with connection():
         pass
     '''
-    return _ConectionCtx()
+    return _ConnectionCtx()
 
 
 def with_connection(func):
@@ -243,7 +243,7 @@ class _Transaction(object):
             logging.info('commit ok.')
         except:
             logging.warning('commit failed, try rollback...')
-            _db_ctx.connection.rollback
+            _db_ctx.connection.rollback()
             raise     
 
     def rollback(self):

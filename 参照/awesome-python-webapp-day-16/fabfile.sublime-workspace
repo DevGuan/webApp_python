@@ -1,0 +1,198 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"f",
+				"from"
+			],
+			[
+				"__",
+				"__future__"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/admin/Desktop/webApp_python/参照/awesome-python-webapp-day-16/www/wsgiapp.py",
+		"/Users/admin/Downloads/wordpress/wp-admin/index.php",
+		"/Users/admin/Downloads/wordpress/wp-blog-header.php",
+		"/Users/admin/Downloads/wordpress/index.php",
+		"/Users/admin/Downloads/wordpress/wp-content/index.php",
+		"/usr/local/sonar/conf/sonar.properties",
+		"/Users/admin/Desktop/webApp_python/www/transwarp/db.py",
+		"/Users/admin/Desktop/pythonWeb/train_w/train_w/urls.py",
+		"/Users/admin/Desktop/51fensi/templates/login.html",
+		"/Users/admin/Desktop/pythonWeb/train_w/train_w/wsgi.py",
+		"/Users/admin/Downloads/NewsBlur-master/apps/mobile/models.py",
+		"/Users/admin/Downloads/NewsBlur-master/flask/flask_settings.py",
+		"/Users/admin/Downloads/NewsBlur-master/docker/local_settings.py",
+		"/Users/admin/Downloads/NewsBlur-master/manage.py",
+		"/Users/admin/Desktop/xPyToys/down_bing_bg.py",
+		"/Users/admin/Desktop/xPyToys/zufang.py",
+		"/Users/admin/Desktop/xPyToys/weibo_baoshi.py",
+		"/Users/admin/Desktop/pythonWeb/martrix.py",
+		"/Users/admin/Desktop/pythonWeb/train_w/blog/views.py",
+		"/Users/admin/Desktop/pythonWeb/train_w/train_w/settings.py",
+		"/Users/admin/Desktop/pythonWeb/train_w/blog/models.py",
+		"/Users/admin/Desktop/pythonWeb/train_w/train_w/__init__.py",
+		"/Users/admin/Desktop/pythonWeb/train_w/blog/admin.py",
+		"/Users/admin/Desktop/TestENV/TestWeb/Article/models.py",
+		"/Users/admin/Downloads/index(1).php",
+		"/Users/admin/Downloads/login.xml"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "fabfile.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
